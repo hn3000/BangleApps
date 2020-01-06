@@ -67,6 +67,20 @@
       {"name":"*wclock","url":"clock-word-icon.js","evaluate":true}
     ]
   },
+  { "id": "hclock",
+    "name": "Hands Clock",
+    "icon": "clock-analog.png",
+    "version":"0.01",
+    "description": "Another Analog Clock",
+    "tags": "clock",
+    "type":"clock",
+    "allow_emulator":true,
+    "storage": [
+      {"name":"+hclock","url":"clock-analog.json"},
+      {"name":"-hclock","url":"clock-analog.js"},
+      {"name":"*hclock","url":"clock-analog-icon.js","evaluate":true}
+    ]
+  },
   { "id": "aclock",
     "name": "Analog Clock",
     "icon": "clock-analog.png",

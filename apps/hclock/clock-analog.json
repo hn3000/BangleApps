@@ -1,0 +1,6 @@
+{
+  "name":"Hands Clock","type":"clock",
+  "icon":"*hclock",
+  "src":"-hclock",
+  "sortorder":-10
+}
